@@ -41,7 +41,7 @@ hospital_capacity_prediction/
 ---
 
 ## 📊 Ejemplo de visualización
-![Dashboard Screenshot](docs/dashboard_screenshot.png)
+![Dashboard Screenshot](dashboard/dashboard_screenshot.png)
 
 ---
 
