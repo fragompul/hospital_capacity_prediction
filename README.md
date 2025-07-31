@@ -93,4 +93,7 @@ Se abrirá en tu navegador en http://localhost:8501.
 ---
 
 ## 📌 Autor
-Francisco Javier Gómez Pulido
+- Francisco Javier Gómez Pulido
+- Correo electrónico: frangomezpulido2002@gmail.com
+- Linkedin: www.linkedin.com/in/frangomezpulido
+- GitHub: fragompul
