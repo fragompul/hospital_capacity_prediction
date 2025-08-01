@@ -36,6 +36,8 @@ hospital_capacity_prediction/
 │   └── app.py                         # Dashboard en Streamlit
 │
 └── requirements.txt
+│
+└── Memoria.pdf                        # Memoria del proyecto
 ```
 
 ---
